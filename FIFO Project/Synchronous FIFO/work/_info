@@ -1,0 +1,55 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Siddhant/Desktop/FIFO Project/Synchronous FIFO
+vfifo
+Z1 !s110 1720866922
+!i10b 1
+!s100 2Lg6L9MJR2LnQSKVJNN463
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IL_?=_Ghnkj[f:K[WVfe7i3
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1720865151
+8fifo.v
+Ffifo.v
+!i122 16
+L0 1 85
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1720866922.000000
+!s107 fifo.v|tb.v|
+Z6 !s90 -reportprogress|300|tb.v|
+!i113 1
+Z7 tCvgOpt 0
+vtb
+R1
+!i10b 1
+!s100 jl8_FKOQW01lUinznb22I1
+R2
+I51K@zJC0NRS`[g[@_d<C?0
+R3
+R0
+w1720865171
+8tb.v
+Ftb.v
+!i122 16
+L0 2 97
+R4
+r1
+!s85 0
+31
+R5
+Z8 !s107 fifo.v|tb.v|
+R6
+!i113 1
+R7

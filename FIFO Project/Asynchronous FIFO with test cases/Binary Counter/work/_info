@@ -1,0 +1,55 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Siddhant/Desktop/FIFO Project/Asynchronous FIFO with test cases
+vfifo
+Z0 !s110 1721231984
+!i10b 1
+!s100 Pbb;IEcRmGf9=W2cJzj141
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I3>IJ:gdNz4MoQfgfVE88Z1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/Siddhant/Desktop/FIFO Project/Asynchronous FIFO with test cases/Binary Counter
+w1720869806
+8fifo.v
+Ffifo.v
+!i122 18
+L0 1 98
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1721231984.000000
+!s107 fifo.v|tb.v|
+Z6 !s90 -reportprogress|300|tb.v|
+!i113 1
+Z7 tCvgOpt 0
+vtb
+R0
+!i10b 1
+!s100 mYc:oFdXYK@HU2GhY6l5Z2
+R1
+IVjJDg0TV6I`Y49I4L^CbN0
+R2
+R3
+w1720968925
+8tb.v
+Ftb.v
+!i122 18
+L0 2 102
+R4
+r1
+!s85 0
+31
+R5
+Z8 !s107 fifo.v|tb.v|
+R6
+!i113 1
+R7
